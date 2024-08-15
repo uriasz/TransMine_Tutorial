@@ -66,6 +66,7 @@ Deixe essa pasta aberta.
 
 ### Espero que TODAS estejam PRONTAS pra JOGAR na próxima call
 Da última vez ficamos a tarde toda tentando e não deu certo =/ , mas dessa vez vai rolar. 
+### AMO VCS ♡
 
 
 
