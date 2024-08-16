@@ -31,12 +31,12 @@ Com tudo baixado, vamos começar a instalação.
 <br>
 
 2.3 - Escolha um nome, e a versão do modpack nessa tela.
-      ! GARANTA ! que a versão escolhida é a 1.19.2 (IMPORTANTE).
+      ** GARANTA ** que a versão escolhida é a 1.19.2 (IMPORTANTE).
 ![image](https://github.com/user-attachments/assets/06b3440d-0384-4a94-87bf-64c17b299e01)
 <br>
 
 
-2.3 - incie o jogo pela primeira vez, para que as pastas necessárias sejam criadas, pode fechar o mine assim que ele abrir.
+2.3 - incie o jogo pela primeira vez, para que as pastas necessárias sejam criadas.<sub> pode fechar o mine assim que ele abrir. </sub>
 <br>
 
 ## 3 - Instalando os mods:
