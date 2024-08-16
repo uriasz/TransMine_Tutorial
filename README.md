@@ -42,9 +42,8 @@ Com tudo baixado, vamos começar a instalação.
 <br>
 
 
-2.3 - incie o jogo pela primeira vez, para que as pastas necessárias sejam criadas.
->[!TIP]
->Pode fechar o mine assim que ele abrir
+2.3 - incie o jogo pela primeira vez, e quando terminar de abrir, pode fechar.
+Essa parte é só pra que o mine crie as pastas que a gnt vai precisar na instalação.
 <br>
 
 ![ezgif com-resize (2)](https://github.com/user-attachments/assets/036e1ece-b56e-42d0-b4ee-bd155219d3de)
