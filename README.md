@@ -1,5 +1,6 @@
 
-![0fc767553359ab90835e5023261f5f09](https://github.com/user-attachments/assets/c84a1a31-5b97-40eb-8f41-a3a1ed8c579a)
+![Uploading 6f40010dbf9ad18584707eb0fafe4a9b-ezgif.com-resize.gif…]()
+
 
 # Tutorial TRANS de como entrar no servidor de minecraft <3 !
 
