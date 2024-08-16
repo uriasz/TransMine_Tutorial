@@ -87,6 +87,7 @@ Deixe essa pasta aberta.
 Da última vez ficamos a tarde toda tentando e não deu certo =/ , mas dessa vez vai rolar. 
 ### AMO VCS! ♡
 
+![ariana-grande](https://github.com/user-attachments/assets/0c50ef1d-bbd1-443e-9acd-e4bc6a0346ef)
 
 
 
