@@ -92,6 +92,8 @@ Deixe essa pasta aberta.
 5.3 - Uma vez inciado, quando próximo de ligar, o site vai te pedir uma confirmação pra ter certeza de que você não está AFK, fique atenta.
 <br>
 
+![ezgif com-resize](https://github.com/user-attachments/assets/05ba5e4c-ccc8-41ec-928d-4501a4553407)
+
 
 ### Espero que TODAS estejam PRONTAS pra JOGAR na próxima call
 Da última vez ficamos a tarde toda tentando e não deu certo =/ , mas dessa vez vai rolar. 
