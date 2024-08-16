@@ -1,7 +1,8 @@
+
+![0fc767553359ab90835e5023261f5f09](https://github.com/user-attachments/assets/ada0a8ea-103b-473e-bad2-bc6e2b75b082)
+
+
 # Tutorial TRANS de como entrar no servidor de minecraft <3 !
-
-![6c5c0be28f262f39a71d470d47496068](https://github.com/user-attachments/assets/2a2ebf29-8e25-4ec6-ae7d-144e0e0989e8)
-
 
 ## 1 - Baixando arquivos necessários
 
