@@ -19,6 +19,7 @@ https://we.tl/t-uIZ1k0o6AM
 Com tudo baixado, vamos começar a instalação.
 <br>
 
+![ezgif com-resize (1)](https://github.com/user-attachments/assets/dd2f84fa-859c-437a-86e1-d038a98bff57)
 
 
 ## 2 - Criando o modpack no Tlauncher:
@@ -44,6 +45,8 @@ Com tudo baixado, vamos começar a instalação.
 2.3 - incie o jogo pela primeira vez,<sup> pode fechar o mine assim que ele abrir. </sup> para que as pastas necessárias sejam criadas.
 <br>
 
+![ezgif com-resize (2)](https://github.com/user-attachments/assets/036e1ece-b56e-42d0-b4ee-bd155219d3de)
+
 ## 3 - Instalando os mods:
 
 3.1 - Com a versão do modpack selecionada, clique na pastinha para abrir os arquivos do mine.
@@ -63,6 +66,9 @@ Deixe essa pasta aberta.
 <br>
 
 ### Pronto, seu jogo já está devidamente configurado.
+<br>
+
+![ezgif com-resize (4)](https://github.com/user-attachments/assets/92114c39-b9af-4261-9ecb-f585599c7faa)
 
 ## 4 - Conectando-se ao servidor:
 
@@ -78,6 +84,8 @@ Deixe essa pasta aberta.
 
 4.4 - Adicione o ip: traviarcado.aternos.me
 <br>
+
+![ezgif com-resize (3)](https://github.com/user-attachments/assets/ff957e1b-7219-46d3-8edc-1dd55fadf1a5)
 
 ## 5 - Ligando o servidor:
 
