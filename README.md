@@ -36,7 +36,7 @@ Com tudo baixado, vamos começar a instalação.
 
 ## 3 - Instalando os mods:
 
-3.1 - Com a versão do modpack seleciona, clique na pastinha para abrir os arquivos do mine.
+3.1 - Com a versão do modpack selecionada, clique na pastinha para abrir os arquivos do mine.
 ![image](https://github.com/user-attachments/assets/1209f3ab-58d1-426e-b6cb-cf4d437acd48)
 <br>
 
