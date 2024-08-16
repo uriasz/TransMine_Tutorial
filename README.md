@@ -34,7 +34,7 @@ Com tudo baixado, vamos começar a instalação.
 2.3 - Escolha um nome, e a versão do modpack nessa tela.
       **GARANTA** que a versão escolhida é a 1.19.2 **(IMPORTANTE)**.
 
-> [!IMPORTANT]
+> [!CAUTION]
 > Caso a versão errada seja selecionada, todo o processo será inválido... PRESTA ATENÇÃO!
 
 ![image](https://github.com/user-attachments/assets/06b3440d-0384-4a94-87bf-64c17b299e01)
