@@ -43,7 +43,7 @@ Com tudo baixado, vamos começar a instalação.
 
 
 2.3 - incie o jogo pela primeira vez, para que as pastas necessárias sejam criadas.
->[TIP]
+>[!TIP]
 >Pode fechar o mine assim que ele abrir
 <br>
 
