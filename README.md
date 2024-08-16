@@ -71,7 +71,7 @@ Deixe essa pasta aberta.
 
 ## 5 - Ligando o servidor:
 
-5.1 - Uma vez que você tenha permissão para iniciar o servidor, basta entrar em aternos.com com sua conta e o servidor vai ser o único a aparecer (caso você ja n tenha algum criado).
+5.1 - Uma vez que você tem a necessária permissão para iniciar o servidor, basta entrar em aternos.com com sua conta e o servidor vai ser o único a aparecer (caso você ja n tenha algum criado).
 ![image](https://github.com/user-attachments/assets/e36cd882-a755-43d4-8c42-54c0beca7096)
 <br>
 
