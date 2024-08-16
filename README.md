@@ -83,7 +83,7 @@ Deixe essa pasta aberta.
 4.3 - Adicione o nome do servidor "Transilvânia".
 <br>
 
-4.4 - Adicione o ip: traviarcado.aternos.me
+4.4 - Adicione o ip: traviarcado.aternos.me:44673
 <br>
 
 ![ezgif com-resize (3)](https://github.com/user-attachments/assets/ff957e1b-7219-46d3-8edc-1dd55fadf1a5)
