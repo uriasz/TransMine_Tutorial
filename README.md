@@ -1,7 +1,7 @@
 
 ![6f40010dbf9ad18584707eb0fafe4a9b-ezgif com-resize](https://github.com/user-attachments/assets/f6b78f88-22e6-4824-8e24-7764a4abfc59)
 
-# Tutorial TRANS de como entrar no servidor de minecraft <3 !
+# '#ff94e2' Tutorial TRANS de como entrar no servidor de minecraft <3 ! '#ff94e2'
 
 ## 1 - Baixando arquivos necessários
 
@@ -31,7 +31,7 @@ Com tudo baixado, vamos começar a instalação.
 <br>
 
 2.3 - Escolha um nome, e a versão do modpack nessa tela.
-      **GARANTA** que a versão escolhida é a 1.19.2 ´#ff94e2´ **(IMPORTANTE)**.
+      **GARANTA** que a versão escolhida é a 1.19.2 **(IMPORTANTE)**.
 ![image](https://github.com/user-attachments/assets/06b3440d-0384-4a94-87bf-64c17b299e01)
 <br>
 
