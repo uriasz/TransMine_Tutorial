@@ -1,5 +1,9 @@
 # Tutorial TRANS de como entrar no servidor de minecraft <3 !
 
+![pngtree-vintage-text-separator-decoration-ornament-png-image_4763039](https://github.com/user-attachments/assets/ce37fed6-c8ee-4f2b-acfe-0e8e1298fb53)
+
+
+
 
 ## 1 - Baixando arquivos necessários
 
@@ -16,7 +20,7 @@ https://we.tl/t-uIZ1k0o6AM
 Com tudo baixado, vamos começar a instalação.
 <br>
 
-![pngtree-vintage-text-separator-decoration-ornament-png-image_4763039](https://github.com/user-attachments/assets/ce37fed6-c8ee-4f2b-acfe-0e8e1298fb53)
+
 
 ## 2 - Criando o modpack no Tlauncher:
 
