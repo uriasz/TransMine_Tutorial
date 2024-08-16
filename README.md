@@ -42,7 +42,9 @@ Com tudo baixado, vamos começar a instalação.
 <br>
 
 
-2.3 - incie o jogo pela primeira vez,<sup> pode fechar o mine assim que ele abrir. </sup> para que as pastas necessárias sejam criadas.
+2.3 - incie o jogo pela primeira vez, para que as pastas necessárias sejam criadas.
+>[TIP]
+>Pode fechar o mine assim que ele abrir
 <br>
 
 ![ezgif com-resize (2)](https://github.com/user-attachments/assets/036e1ece-b56e-42d0-b4ee-bd155219d3de)
