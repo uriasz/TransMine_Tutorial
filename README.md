@@ -80,10 +80,10 @@ Deixe essa pasta aberta.
 ![image](https://github.com/user-attachments/assets/f94e5e5c-4d2f-4f0c-976d-68a17a1d7fc6)
 <br>
 
-4.3 - Adicione o nome do servidor "Transilvânia".
+4.3 - Adicione o nome do servidor "Neverland".
 <br>
 
-4.4 - Adicione o ip: traviarcado.aternos.me:44673
+4.4 - Adicione o ip: apnv.aternos.me:44673
 <br>
 
 ![ezgif com-resize (3)](https://github.com/user-attachments/assets/ff957e1b-7219-46d3-8edc-1dd55fadf1a5)
