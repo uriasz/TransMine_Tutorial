@@ -103,7 +103,6 @@ Deixe essa pasta aberta.
 
 ![ezgif com-resize](https://github.com/user-attachments/assets/05ba5e4c-ccc8-41ec-928d-4501a4553407)
 
-### Ps: Eu coloquei a textura que a melanie tinha recomendado como OBRIGATÓRIA, caso n tenha instalado ainda, o servidor vai obriga-la a instalar quando entrar a primeira vez.
 ### Espero que TODAS estejam PRONTAS pra JOGAR na próxima call
 Da última vez ficamos a tarde toda tentando e não deu certo =/ , mas dessa vez vai rolar. 
 ### AMO VCS! BJS ♡
