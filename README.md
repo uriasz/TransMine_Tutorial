@@ -77,7 +77,7 @@ Deixe essa pasta aberta.
 <br>
 
 4.2 - Clique em ADICIONAR SERVIDOR, NÃO em conexão direta.
-![image](https://github.com/user-attachments/assets/f94e5e5c-4d2f-4f0c-976d-68a17a1d7fc6)
+![image](https://github.com/user-attachments/assets/e86de461-707d-46cd-b5f3-e74c89bcec25)
 <br>
 
 4.3 - Adicione o nome do servidor "Neverland".
