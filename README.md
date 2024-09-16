@@ -13,7 +13,7 @@ https://tlauncher.org/en/
 <br>
 
 1.2 - Baixe o modpack que vamos usar (caso link esteja expirado no momento que for baixar, basta me pedir um novo):
-https://we.tl/t-UdryyrqxIY
+https://we.tl/t-lklBanwYmq
 
 <br>
 Com tudo baixado, vamos começar a instalação.
